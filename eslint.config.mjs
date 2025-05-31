@@ -34,4 +34,4 @@ export default [
 		},
 	},
 ];
-b"I transformed a bug into a feature. Once you learn how, youll never forget it"b"I understand that its an antipattern, but its convenient."fix that damn sign!!!Programming the flux capacitorHandled a particular error.Whatever.Ugh. Bad rebase.
+b"I transformed a bug into a feature. Once you learn how, youll never forget it"b"I understand that its an antipattern, but its convenient."fix that damn sign!!!Programming the flux capacitorHandled a particular error.Whatever.Ugh. Bad rebase.try our sister game minceraft!
